@@ -1,0 +1,132 @@
+C:\Users\Jacktheripper2\Desktop\Fonds IFC\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\Coin Valuation Tool.exe.config
+C:\Users\Jacktheripper2\Desktop\Fonds IFC\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\Coin Valuation Tool.exe
+C:\Users\Jacktheripper2\Desktop\Fonds IFC\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\Coin Valuation Tool.pdb
+C:\Users\Jacktheripper2\Desktop\Fonds IFC\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\SQL.dll
+C:\Users\Jacktheripper2\Desktop\Fonds IFC\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\SQL.pdb
+C:\Users\Jacktheripper2\Desktop\Fonds IFC\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin Valuation Tool.csprojResolveAssemblyReference.cache
+C:\Users\Jacktheripper2\Desktop\Fonds IFC\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.LoginWdw.resources
+C:\Users\Jacktheripper2\Desktop\Fonds IFC\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.MainWdw.resources
+C:\Users\Jacktheripper2\Desktop\Fonds IFC\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.Properties.Resources.resources
+C:\Users\Jacktheripper2\Desktop\Fonds IFC\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin Valuation Tool.csproj.GenerateResource.Cache
+C:\Users\Jacktheripper2\Desktop\Fonds IFC\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin Valuation Tool.exe
+C:\Users\Jacktheripper2\Desktop\Fonds IFC\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin Valuation Tool.pdb
+C:\Users\Jacktheripper2\Desktop\Fonds IFC\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.NewProject.resources
+C:\Users\Jacktheripper2\Desktop\Fonds IFC\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.ThirdParties.resources
+C:\Users\Jacktheripper2\Desktop\Fonds IFC\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Interop.Office.dll
+C:\Users\Jacktheripper2\Desktop\Fonds IFC\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin Valuation Tool.csproj.ResolveComReference.cache
+C:\Users\Jacktheripper2\Desktop\Fonds IFC\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\Risk.dll
+C:\Users\Jacktheripper2\Desktop\Fonds IFC\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\Risk.pdb
+C:\Users\Jacktheripper2\Desktop\Fonds IFC\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.Parameters.resources
+C:\Users\Jacktheripper2\Desktop\Fonds IFC\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\ABMath.dll
+C:\Users\Jacktheripper2\Desktop\Fonds IFC\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\MathNet.Iridium.dll
+C:\Users\Jacktheripper2\Desktop\Fonds IFC\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Jacktheripper2\Desktop\Fonds IFC\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\XML.dll
+C:\Users\Jacktheripper2\Desktop\Fonds IFC\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\XML.pdb
+C:\Users\Jacktheripper2\Desktop\Fonds IFC\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.RiskMgt.resources
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\Coin Valuation Tool.exe.config
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Interop.Office.dll
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin Valuation Tool.csproj.ResolveComReference.cache
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin Valuation Tool.exe
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin Valuation Tool.pdb
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\Coin Valuation Tool.exe
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\Coin Valuation Tool.pdb
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\Risk.dll
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\SQL.dll
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\XML.dll
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\ABMath.dll
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\MathNet.Iridium.dll
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\Risk.pdb
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\SQL.pdb
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\XML.pdb
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin Valuation Tool.csprojResolveAssemblyReference.cache
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.RiskMgt.resources
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.LoginWdw.resources
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.MainWdw.resources
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.Parameters.resources
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.Properties.Resources.resources
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin Valuation Tool.csproj.GenerateResource.Cache
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\Valuation.dll
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\Valuation.pdb
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\ProjectLib.dll
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\ProjectLib.pdb
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.OpenProjects.resources
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.ChangeDBParam.resources
+F:\CoVaT\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\Coin Valuation Tool.exe.config
+F:\CoVaT\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin Valuation Tool.csproj.ResolveComReference.cache
+F:\CoVaT\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin Valuation Tool.exe
+F:\CoVaT\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin Valuation Tool.pdb
+F:\CoVaT\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin Valuation Tool.csprojResolveAssemblyReference.cache
+F:\CoVaT\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.ChangeDBParam.resources
+F:\CoVaT\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.OpenProjects.resources
+F:\CoVaT\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.RiskMgt.resources
+F:\CoVaT\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.LoginWdw.resources
+F:\CoVaT\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.MainWdw.resources
+F:\CoVaT\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.NewProject.resources
+F:\CoVaT\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.Parameters.resources
+F:\CoVaT\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.Properties.Resources.resources
+F:\CoVaT\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin Valuation Tool.csproj.GenerateResource.Cache
+F:\CoVaT\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\Coin Valuation Tool.exe
+F:\CoVaT\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\Coin Valuation Tool.pdb
+F:\CoVaT\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\ProjectLib.dll
+F:\CoVaT\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\Risk.dll
+F:\CoVaT\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\SQL.dll
+F:\CoVaT\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\Valuation.dll
+F:\CoVaT\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\XML.dll
+F:\CoVaT\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\ABMath.dll
+F:\CoVaT\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\MathNet.Iridium.dll
+F:\CoVaT\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\CoVaT\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\ProjectLib.pdb
+F:\CoVaT\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\Risk.pdb
+F:\CoVaT\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\SQL.pdb
+F:\CoVaT\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\Valuation.pdb
+F:\CoVaT\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\XML.pdb
+F:\CoVaT\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.ProjectParam.resources
+H:\CoVaT\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\Coin Valuation Tool.exe.config
+H:\CoVaT\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Interop.Office.dll
+H:\CoVaT\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin Valuation Tool.csproj.ResolveComReference.cache
+H:\CoVaT\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin Valuation Tool.exe
+H:\CoVaT\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin Valuation Tool.pdb
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.EquitySchedule.resources
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.ProjectParam.resources
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.RateManagement.resources
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.NewMDEProject.resources
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.DepositRateDecrease.resources
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.ProjectValidation.resources
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.CalculateRateAfterCP.resources
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\Coin Valuation Tool.exe.config
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Interop.Office.dll
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin Valuation Tool.csproj.ResolveComReference.cache
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin Valuation Tool.exe
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin Valuation Tool.pdb
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin Valuation Tool.csprojResolveAssemblyReference.cache
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.CalculateRateAfterCP.resources
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.ChangeDBParam.resources
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.DepositRateDecrease.resources
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.EquitySchedule.resources
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.OpenProjects.resources
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.ProjectParam.resources
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.RateManagement.resources
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.RiskMgt.resources
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.LoginWdw.resources
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.MainWdw.resources
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.NewMDEProject.resources
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.Parameters.resources
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.Properties.Resources.resources
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin_Valuation_Tool.ProjectValidation.resources
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\Coin Valuation Tool\obj\Debug\Coin Valuation Tool.csproj.GenerateResource.Cache
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\Coin Valuation Tool.exe
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\Coin Valuation Tool.pdb
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\ProjectLib.dll
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\Risk.dll
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\SQL.dll
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\Valuation.dll
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\XML.dll
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\ABMath.dll
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\MathNet.Iridium.dll
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\ProjectLib.pdb
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\Risk.pdb
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\SQL.pdb
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\Valuation.pdb
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\Coin Valuation Tool\bin\Debug\XML.pdb

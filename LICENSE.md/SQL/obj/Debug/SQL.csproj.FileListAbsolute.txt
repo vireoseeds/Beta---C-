@@ -1,0 +1,10 @@
+C:\Users\Jacktheripper2\Desktop\Fonds IFC\Coin Valuation Tool\SQL\bin\Debug\SQL.dll
+C:\Users\Jacktheripper2\Desktop\Fonds IFC\Coin Valuation Tool\SQL\bin\Debug\SQL.pdb
+C:\Users\Jacktheripper2\Desktop\Fonds IFC\Coin Valuation Tool\SQL\obj\Debug\SQL.csprojResolveAssemblyReference.cache
+C:\Users\Jacktheripper2\Desktop\Fonds IFC\Coin Valuation Tool\SQL\obj\Debug\SQL.dll
+C:\Users\Jacktheripper2\Desktop\Fonds IFC\Coin Valuation Tool\SQL\obj\Debug\SQL.pdb
+F:\CoVaT\Coin Valuation Tool\SQL\bin\Debug\SQL.dll
+F:\CoVaT\Coin Valuation Tool\SQL\bin\Debug\SQL.pdb
+F:\CoVaT\Coin Valuation Tool\SQL\obj\Debug\SQL.csprojResolveAssemblyReference.cache
+F:\CoVaT\Coin Valuation Tool\SQL\obj\Debug\SQL.dll
+F:\CoVaT\Coin Valuation Tool\SQL\obj\Debug\SQL.pdb

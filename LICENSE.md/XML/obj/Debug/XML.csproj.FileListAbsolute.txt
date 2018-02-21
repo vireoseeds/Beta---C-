@@ -1,0 +1,32 @@
+C:\Users\Jacktheripper2\Desktop\Fonds IFC\Coin Valuation Tool\XML\bin\Debug\XML.dll
+C:\Users\Jacktheripper2\Desktop\Fonds IFC\Coin Valuation Tool\XML\bin\Debug\XML.pdb
+C:\Users\Jacktheripper2\Desktop\Fonds IFC\Coin Valuation Tool\XML\obj\Debug\XML.csprojResolveAssemblyReference.cache
+C:\Users\Jacktheripper2\Desktop\Fonds IFC\Coin Valuation Tool\XML\obj\Debug\XML.dll
+C:\Users\Jacktheripper2\Desktop\Fonds IFC\Coin Valuation Tool\XML\obj\Debug\XML.pdb
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\XML\obj\Debug\XML.csprojResolveAssemblyReference.cache
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\XML\obj\Debug\XML.dll
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\XML\obj\Debug\XML.pdb
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\XML\bin\Debug\XML.dll
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\XML\bin\Debug\XML.pdb
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\XML\bin\Debug\ProjectLib.dll
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\XML\bin\Debug\ProjectLib.pdb
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\XML\bin\Debug\Valuation.dll
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\XML\bin\Debug\Valuation.pdb
+F:\CoVaT\Coin Valuation Tool\XML\obj\Debug\XML.csprojResolveAssemblyReference.cache
+F:\CoVaT\Coin Valuation Tool\XML\obj\Debug\XML.dll
+F:\CoVaT\Coin Valuation Tool\XML\obj\Debug\XML.pdb
+F:\CoVaT\Coin Valuation Tool\XML\bin\Debug\XML.dll
+F:\CoVaT\Coin Valuation Tool\XML\bin\Debug\XML.pdb
+F:\CoVaT\Coin Valuation Tool\XML\bin\Debug\ProjectLib.dll
+F:\CoVaT\Coin Valuation Tool\XML\bin\Debug\Valuation.dll
+F:\CoVaT\Coin Valuation Tool\XML\bin\Debug\ProjectLib.pdb
+F:\CoVaT\Coin Valuation Tool\XML\bin\Debug\Valuation.pdb
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\XML\bin\Debug\XML.dll
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\XML\bin\Debug\XML.pdb
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\XML\bin\Debug\ProjectLib.dll
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\XML\bin\Debug\Valuation.dll
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\XML\bin\Debug\ProjectLib.pdb
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\XML\bin\Debug\Valuation.pdb
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\XML\obj\Debug\XML.csprojResolveAssemblyReference.cache
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\XML\obj\Debug\XML.dll
+C:\Users\Jacktheripper2\Desktop\VIREO\Coin Valuation Tool\XML\obj\Debug\XML.pdb

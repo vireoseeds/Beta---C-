@@ -1,0 +1,7 @@
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\ProjectLib\bin\Debug\ProjectLib.dll
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\ProjectLib\bin\Debug\ProjectLib.pdb
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\ProjectLib\bin\Debug\Valuation.dll
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\ProjectLib\bin\Debug\Valuation.pdb
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\ProjectLib\obj\Debug\ProjectMDELib.csprojResolveAssemblyReference.cache
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\ProjectLib\obj\Debug\ProjectLib.dll
+C:\Users\Jacktheripper2\Dropbox\CoVaT\Coin Valuation Tool\ProjectLib\obj\Debug\ProjectLib.pdb
